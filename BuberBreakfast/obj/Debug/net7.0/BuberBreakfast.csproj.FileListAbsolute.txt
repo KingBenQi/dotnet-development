@@ -56,3 +56,4 @@ C:\Users\yujia\dotnet-development\BuberBreakfast\obj\Debug\net7.0\refint\BuberBr
 C:\Users\yujia\dotnet-development\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.pdb
 C:\Users\yujia\dotnet-development\BuberBreakfast\obj\Debug\net7.0\BuberBreakfast.genruntimeconfig.cache
 C:\Users\yujia\dotnet-development\BuberBreakfast\obj\Debug\net7.0\ref\BuberBreakfast.dll
+C:\Users\yujia\dotnet-development\BuberBreakfast\bin\Debug\net7.0\ErrorOr.dll

@@ -18,8 +18,8 @@ public class Breakfast
         DateTime startDateTime,
         DateTime endDateTime,
         DateTime lastModifiedDateTime,
-        List<string>savory,
-        List<string>sweet
+        List<string> savory,
+        List<string> sweet
     )
     {
         Id = id;

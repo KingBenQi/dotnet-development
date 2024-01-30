@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "braPzlUAjGhwIsHOiIDWb052LKGylKsmP8RrM5b39dXTc4GkwtgtmeKJXh7cepUXXdqKGQgXqWXGw7gSwrz/Ww==",
+  "dgSpecHash": "BSdr8zD8vSXHgCg3BoAeypujRjPnijdlknPJegTmfiDZJzvtsJ+cDBK9D05ithtjgk2T2DgOXhmtplGqQGI4pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast\\BuberBreakfast.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yujia\\.nuget\\packages\\erroror\\1.9.0\\erroror.1.9.0.nupkg.sha512"
+  ],
   "logs": []
 }
