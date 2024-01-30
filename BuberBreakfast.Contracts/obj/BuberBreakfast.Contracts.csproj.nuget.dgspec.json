@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {}
+    "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
+    "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj",
-        "packagesPath": "/Users/qikehu/.nuget/packages/",
-        "outputPath": "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/obj/",
+        "projectPath": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "packagesPath": "C:\\Users\\yujia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/qikehu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yujia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -27,34 +27,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/qikehu/.nuget/packages/": {}
+    "C:\\Users\\yujia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/qikehu/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+      "projectUniqueName": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast\\BuberBreakfast.csproj",
       "projectName": "BuberBreakfast",
-      "projectPath": "/Users/qikehu/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
-      "packagesPath": "/Users/qikehu/.nuget/packages/",
-      "outputPath": "/Users/qikehu/BuberBreakfast/BuberBreakfast/obj/",
+      "projectPath": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast\\BuberBreakfast.csproj",
+      "packagesPath": "C:\\Users\\yujia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/qikehu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\yujia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.308/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj": {
-              "projectPath": "/Users/qikehu/BuberBreakfast/BuberBreakfast.Contracts/BuberBreakfast.Contracts.csproj"
+            "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+              "projectPath": "C:\\Users\\yujia\\dotnet-development\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj"
             }
           }
         }
@@ -87,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
