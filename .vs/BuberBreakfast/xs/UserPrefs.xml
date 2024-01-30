@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{69F1AE2B-7722-45B4-9F15-3C091663FB83}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BuberBreakfast PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuberBreakfast/Services/Breakfasts/IBreakfastService.cs">
+    <Files>
+      <File FileName="BuberBreakfast/Models/Breakfast.cs" Line="1" Column="1" />
+      <File FileName="BuberBreakfast/Services/Breakfasts/IBreakfastService.cs" Line="5" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuberBreakfast" expanded="True">
+            <Node name="BuberBreakfast" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Breakfasts" expanded="True">
+                  <Node name="IBreakfastService.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="BuberBreakfast.Contracts" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
